@@ -43,6 +43,8 @@ Evaluation Metrics: F1 Score, Loss Curves, Visual Misclassifications
 📈 Model Performance
 📊 F1 Score & Loss Curves
 <img src="/Images/f1 score curves.png" width="800"/> <img src="/Images/loss curves.png" width="800"/>
+
+
 Epoch	Train Loss	Val Loss	Train F1	Val F1
 1	1.0240	0.4389	0.7281	0.8750
 2	0.1630	0.0771	0.9456	0.9700
