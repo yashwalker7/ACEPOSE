@@ -27,7 +27,7 @@ Future Work
 🎥 Demo
 Below are sample visualizations generated using Grad-CAM to highlight the model’s focus:
 
-<img src="/Images/prediction 1.png" width="800"/> <img src="/Images/serve.png" width="800"/>
+<img src="/Images/serve.png" width="800"/> <img src="/Images/prediction 1.png" width="800"/>
 
 🚀 Project Highlights
 Task: Classify a tennis player's pose from static images.
